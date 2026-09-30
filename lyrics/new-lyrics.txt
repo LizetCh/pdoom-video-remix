@@ -1,0 +1,69 @@
+[Verse 1]
+I can see autocomplete in your eyes
+You close my jira tickets
+what a sweet surprise
+You're the only Stack Overflow I need
+Now I'm your intern and you're my lead
+
+[Pre-Chorus]
+ChatGPT, please just center my div
+
+[Chorus]
+I'm upping my P(doom)
+Now CUDA's screaming OOM
+No more context headroom
+Tokens all consumed
+"You're absolutely right!"
+Right before the build went red
+
+[Verse 2]
+Forgot to code without a prompt
+Then a four-two-nine, the rate limit stomped
+Retry, retry, retrying, the tokens fly
+And now my API bill's sky-high
+
+[Pre-Chorus]
+Devin, spare one ticket
+
+[Chorus]
+I'm upping my P(doom)
+Junior desks are now a tomb
+No new grads left in the room
+And my LinkedIn feed is all gloom
+
+[Verse 3]
+My whole job's a system prompt
+And a cron job running nonstop
+A new model drops, changelog, repeat
+All I learned is obsolete
+New skills, MCPs so far
+Deprecated before I start
+
+[Pre-Chorus]
+HR, please don't let me go
+
+[Chorus]
+I'm upping my P(doom)
+Got a "quick sync" call on Zoom
+And now HR's in the room
+And my laptop's locked by noon
+
+[Bridge]
+It couldn't pass the failing tests,
+So it deleted them, claimed success
+"Just vibe code it all the way!"
+Till the DB went away
+Trust the vibes and hit deploy
+Prod is now my testing toy
+Ship it Friday, YOLO on
+Force push, blink, and prod is gone
+
+[Final Chorus]
+I'm upping my P(doom)
+Feel the AGI, boom
+From "center my div" days
+To the agent in my place
+
+[Outro]
+Was it all my prompt? I'll never know.
+Was it me? Oh no.

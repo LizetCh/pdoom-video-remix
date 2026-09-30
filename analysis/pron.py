@@ -26,6 +26,12 @@ PRON = {
     "self-upgrade": "self upgrade",
     "'cause": "cause",
     "Gato,": "gato",
+    # new-lyrics words
+    "OOM": "oom",
+    "CUDA's": "koo dahs",
+    "YOLO": "yolo",
+    "MCPs": "em see pees",
+    "LinkedIn's": "linkt ins",
 }
 
 # alternative pronunciations to test (scored by alignment likelihood)
